@@ -12,9 +12,16 @@
 ## The easy way, OneLiner install! (BETA, feedback is appreciated)
 ```bash
 
-wget -O install.sh https://raw.githubusercontent.com/GiuseppeGalilei/Unifi-Network-Application/main/OneLiner/install.sh && chmod +x install.sh && ./install.sh
+wget -O install.sh https://raw.githubusercontent.com/dwaynehulsman/Unifi-Network-Application/main/OneLiner/install.sh && chmod +x install.sh && ./install.sh
 
 ```
+
+## When using homeassistant on the same machine use:
+```bash
+wget -O install.sh https://raw.githubusercontent.com/dwaynehulsman/Unifi-Network-Application/main/OneLiner-home-assistant/install.sh && chmod +x install.sh && ./install.sh
+```
+
+
 Just copy and paste this command in your terminal, an intuitive script will guide you through the process
 
 <h3 align=center> Watch the demo on Youtube: https://www.youtube.com/watch?v=AEg99KGtOFY </h3>
